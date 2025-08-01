@@ -1,0 +1,14 @@
+C:\Users\Usuário\SimuladorDeNotasEscolares\bin\Debug\net9.0\SimuladorDeNotasEscolares.exe
+C:\Users\Usuário\SimuladorDeNotasEscolares\bin\Debug\net9.0\SimuladorDeNotasEscolares.deps.json
+C:\Users\Usuário\SimuladorDeNotasEscolares\bin\Debug\net9.0\SimuladorDeNotasEscolares.runtimeconfig.json
+C:\Users\Usuário\SimuladorDeNotasEscolares\bin\Debug\net9.0\SimuladorDeNotasEscolares.dll
+C:\Users\Usuário\SimuladorDeNotasEscolares\bin\Debug\net9.0\SimuladorDeNotasEscolares.pdb
+C:\Users\Usuário\SimuladorDeNotasEscolares\obj\Debug\net9.0\SimuladorDeNotasEscolares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\SimuladorDeNotasEscolares\obj\Debug\net9.0\SimuladorDeNotasEscolares.AssemblyInfoInputs.cache
+C:\Users\Usuário\SimuladorDeNotasEscolares\obj\Debug\net9.0\SimuladorDeNotasEscolares.AssemblyInfo.cs
+C:\Users\Usuário\SimuladorDeNotasEscolares\obj\Debug\net9.0\SimuladorDeNotasEscolares.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\SimuladorDeNotasEscolares\obj\Debug\net9.0\SimuladorDeNotasEscolares.dll
+C:\Users\Usuário\SimuladorDeNotasEscolares\obj\Debug\net9.0\refint\SimuladorDeNotasEscolares.dll
+C:\Users\Usuário\SimuladorDeNotasEscolares\obj\Debug\net9.0\SimuladorDeNotasEscolares.pdb
+C:\Users\Usuário\SimuladorDeNotasEscolares\obj\Debug\net9.0\SimuladorDeNotasEscolares.genruntimeconfig.cache
+C:\Users\Usuário\SimuladorDeNotasEscolares\obj\Debug\net9.0\ref\SimuladorDeNotasEscolares.dll
