@@ -1,19 +1,20 @@
 ﻿using System;
 
-namespace Program
+namespace Simulador
 {
-    class Notas
+    class Program
     {
         public static void Main(string[] agrs)
         {
+            // Limpar o console
+            Console.Clear();
+
             Console.WriteLine("=============== Simulador de Notas Escolares ===============");
 
             // Inserir nome e série do aluno
             Console.WriteLine($"Qual é o seu nome? ");
             string nome = Console.ReadLine();
 
-            // Limpa o console
-            Console.Clear();
 
             // Entrada de dados
             Console.WriteLine($"{nome}, digite a sua primeira nota: ");
@@ -67,7 +68,5 @@ namespace Program
             }
 
         }
-
-        // 
     }
 }
